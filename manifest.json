@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Content Highlighter and Notes",
+    "name": "Simplified Research Tool",
     "version": "1.0",
-    "description": "Highlight and save important content as notes.",
+    "description": "Save important content as notes and give a summary.",
     "permissions": [
       "activeTab",
       "scripting",
